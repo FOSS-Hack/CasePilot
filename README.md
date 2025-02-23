@@ -1,8 +1,19 @@
 # CasePilot
 
 ## Created During :
-
-FossHack 2025
+## Created During : 
+<table>
+    <tr>
+      <th>Event Logo</th>
+      <th>Event Name</th>
+      <th>Event Description</th>
+    </tr>
+    <tr>
+        <td><img src="assets/foss-hack-logo.jpeg" width="200" height="auto"/></td>
+        <td>FossHack 2025</td>
+        <td>FOSS Hack 2025 is the fifth edition of FOSS Hack, a hybrid hackathon to promote Free and Open Source Software by bringing together students and professionals to build or extend FOSS projects.
+    </tr>
+</table>
 
 ## Introduction
 
