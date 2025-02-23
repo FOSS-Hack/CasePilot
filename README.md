@@ -1,6 +1,5 @@
 # CasePilot
 
-## Created During :
 ## Created During : 
 <table>
     <tr>
