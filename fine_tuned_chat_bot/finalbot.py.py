@@ -2,7 +2,7 @@ import streamlit as st
 import lamini
 
 # Initialize the Lamini LLM with API key and model name
-LLM_API_KEY = "1ca583a43d9fe7b9fa12f447fe32c34bf1e89c64b08ad2980f63a5a2bd93f16d"
+LLM_API_KEY = "your_key"
 llm = lamini.Lamini(api_key=LLM_API_KEY, model_name="480e81c47a63225c1e85da14852fa0c17843b9a6967405931c7fc87d9478bba0")
 
 # Streamlit UI
