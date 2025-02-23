@@ -23,6 +23,7 @@
 - [Installation](#-Installation)
 - [How to Contribute?](#-How-to-Contribute)
 - [Tech Stack](#-Tech-Stack)
+- [Datasets Used](#-Datasets)
 
 ## 📝 Introduction
 
@@ -110,6 +111,12 @@ If you encounter any issues, feel free to open a ticket in the [Issues](https://
 - **Next.js:** Framework for the frontend and server-side rendering.
 - **Supabase:** Open-source backend for authentication and database management.
 - **Python:** For advanced AI models like precedent finding using cosine similarity and chatbot functionalities.
+
+## 📊 Datasets
+
+LLM Fine-Tuning Dataset of Indian Legal Texts - https://www.kaggle.com/datasets/akshatgupta7/llm-fine-tuning-dataset-of-indian-legal-texts
+
+Supreme Court of India - 2025 Volumes 1 & 2 - https://digiscr.sci.gov.in/
 
 Thank you for being a part of CasePilot! Your contributions and support make a difference. 🚀
 
